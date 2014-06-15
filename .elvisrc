@@ -1,0 +1,7 @@
+set autoindent
+set autotab
+set cleantext=long,bs,ex
+set nobackup
+set number
+set ruler
+set undolevels=1024
