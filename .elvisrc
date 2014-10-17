@@ -5,3 +5,4 @@ set nobackup
 set number
 set ruler
 set undolevels=1024
+set nowrap
